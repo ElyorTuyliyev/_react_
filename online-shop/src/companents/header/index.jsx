@@ -1,4 +1,3 @@
-import "./normale.css";
 import "./style.css";
 
 function Header() {
